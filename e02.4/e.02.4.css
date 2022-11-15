@@ -1,0 +1,127 @@
+.contenedor{
+    width: 1000px;
+    height: 1000px;
+}
+body {
+    background-color: rgb(131, 128, 128);
+}
+
+/* apartado de la cabezera*/
+header{
+    font-style: oblique;
+    background-color: white;
+    text-decoration:underline;
+    font-size: x-large;
+    border: 35px  solid rgb(131, 128, 128);
+
+}
+.INICIO{
+    height: auto;
+    width: auto;
+    float: left;
+    padding:auto;
+    text-decoration:underline;
+    background-color: white;
+    border: 3px solid rgb(0, 0, 0);
+    margin-left: 5px;
+}
+.div2{
+    height: auto;
+    width: auto;
+    float: left;
+    padding:auto;
+    text-decoration:underline;
+    background-color: white;
+    border: 3px solid rgb(0, 0, 0);
+    margin-left: 5px;
+}
+.div3{
+    height: auto;
+    width: auto;
+    float: left;
+    padding:auto;
+    text-decoration:underline;
+    background-color: white;
+    border: 3px solid rgb(0, 0, 0);
+    margin-left: 5px;
+}
+.div4{
+    height: auto;
+    width: auto;
+    float: left;
+    padding:auto;
+    text-decoration:underline;
+    background-color: white;
+    border: 3px solid rgb(0, 0, 0);
+    margin-left: 5px;
+}
+.div5{
+    height: auto;
+    width: auto;
+    padding:auto;
+    float: left;
+    text-decoration:underline;
+    background-color: white;
+    border: 3px solid rgb(0, 0, 0);
+    margin-left: 5px;
+}
+/*parte de nav */
+nav{
+    background-color: green;
+    width: 900px;
+    height: 180px;
+}
+
+    
+h1 {
+    color: whitesmoke;
+    border: 2px solid ;
+    text-align: center;
+    margin:10px;
+    float:top;
+    width: 98%;
+    font-size: x-large;
+  
+    
+}
+h2{
+    color: rgb(251, 251, 80);
+    border: 1px dashed;
+    text-align: right;
+    width: 350px;
+    padding: auto;
+    height: auto;
+    margin-left: 10px;
+    float: left;
+}
+
+img{
+    border: 2px rgb(251, 251, 80) solid;
+    margin-right: 5px;
+
+}
+
+.cuadro2{
+    background-color: #fbdab5;
+    width: 65%;
+    height: 50px;
+    padding: 7px;
+    margin-top: 15px;
+    
+}
+.primera{
+    background-color: #fbdab5;
+    width: 370px;
+    height: 50px;
+    text-align:left;
+    padding: 10px;
+    float:;    
+}
+.segundo{
+    background-color: #0feac9;
+    height: 50px;
+    width: 370px;
+    padding: 10px;
+    
+}
+
